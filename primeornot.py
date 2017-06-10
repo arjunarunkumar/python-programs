@@ -19,4 +19,4 @@ x="yes"
 while(x=="yes" or x == "y"):
     n= int(input("enter the number to check prime or not"))
     prime(n)
-    x=input("do you wanna go again")
+   
